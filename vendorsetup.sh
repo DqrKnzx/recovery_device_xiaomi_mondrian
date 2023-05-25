@@ -5,6 +5,6 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-add_lunch_combo omni_mondrian-user
-add_lunch_combo omni_mondrian-userdebug
-add_lunch_combo omni_mondrian-eng
+add_lunch_combo twrp_mondrian-user
+add_lunch_combo twrp_mondrian-userdebug
+add_lunch_combo twrp_mondrian-eng
